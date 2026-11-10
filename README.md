@@ -191,4 +191,4 @@ This repository serves as the official landing page for SpongeFont Square Type. 
 **Get the most recent version of SpongeFont Square Type today!**
 
 ---
-**Last updated:** 2026-11-09 18:02:55 UTC
+**Last updated:** 2026-11-10 01:49:37 UTC
